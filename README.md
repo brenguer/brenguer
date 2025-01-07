@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-I'm a Data Scientist with a postgraduate degree in **Data Science and Big Data** from **PUC Minas**.  
+I'm a enthusiat of Data with a postgraduate degree in **Data Science and Big Data** from **PUC Minas**.  
 I love working with **Python**, exploring the world of **data**, and believe that **Artificial Intelligence is the future**.  
 
 Automation is my passion – making things faster, smarter, and simpler is what drives me! 
